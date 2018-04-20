@@ -1,6 +1,6 @@
 # Usage:
 # sudo su
-# ./setup_for_JetsonTX2_JetPack3.2.sh
+# ./setup.sh
 # JetPack 3.2 Product ReleaseのSPI有効化は失敗。
 ########################################
 # CPUファン自動起動
